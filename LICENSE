@@ -1,0 +1,35 @@
+ZENYX DATASET LICENSE v2.0
+Copyright (c) 2026 Anamitra Sarkar. All Rights Reserved.
+
+This dataset and all its contents ("the Dataset") were created by 
+Anamitra Sarkar for the exclusive purpose of training the Zenyx AI model.
+
+PERMISSIONS:
+- You MAY view and inspect the Dataset for personal, non-commercial 
+  research purposes only.
+
+RESTRICTIONS:
+You MAY NOT, without explicit prior written permission from the copyright holder:
+- Use the Dataset or any portion of it to train, fine-tune, or evaluate 
+  any machine learning model, AI system, or neural network.
+- Redistribute, sublicense, sell, rent, lease, or transfer the Dataset 
+  or any derived version of it.
+- Use the Dataset in any commercial product or service.
+- Create derivative datasets based on this Dataset.
+- Mirror or re-host the Dataset on any platform.
+
+ATTRIBUTION:
+Any permitted use must clearly credit:
+  "Zenyx CoT SFT Dataset by Anamitra Sarkar (2026)"
+
+ENFORCEMENT:
+Unauthorized use of this Dataset constitutes copyright infringement and 
+may be subject to legal action under applicable intellectual property laws.
+
+THE DATASET IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+For permissions and licensing inquiries, contact the copyright holder 
+directly via GitHub: https://github.com/[your-github-username]
+
+This dataset is proprietary and owned exclusively by Anamitra Sarkar.
+Training any AI model on this data without written permission is strictly prohibited.
